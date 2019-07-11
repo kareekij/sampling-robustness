@@ -15,7 +15,6 @@ import time
 import math
 import argparse
 
-import oracle
 import query
 import query_incomplete
 import log
@@ -38,7 +37,7 @@ import matplotlib as mpl
 mpl.use('agg')
 
 import matplotlib.pyplot as plt
-import multi_sample as ml
+
 
 import adversary
 
@@ -2095,8 +2094,8 @@ if __name__ == '__main__':
 	print('-' * 10)
 
 
-	directory = './data-adv/edge_incomp/'
-
+	# directory = './data-adv/edge_incomp/'
+	directory = './samples/'
 
 
 	for i in range(0, int(args.experiment)):
