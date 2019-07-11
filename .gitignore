@@ -1,5 +1,6 @@
 **/log
 **/data*
+**/graph_properties
 
 .idea/**
 **.pyc
