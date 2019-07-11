@@ -31,9 +31,7 @@ python calculate_robustness_from_sample.py ./data/grad_edges.txt
 The output `output_robustness.txt` is stored in `log` folder (by default).
 
 
-`adversary_sample_robustness_norm.py`
-
-### Predicting Sampling Robustness
+### Predicting Sampling Robustness (will be updated)
 1. `./log/sample-training-aggregate.txt`
 2. `./log/sample-testing-aggregate.txt`
 ```
