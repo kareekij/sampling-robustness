@@ -1,5 +1,5 @@
-# Sampling Robustness
-Measuring Sampling Robustness of Complex Networks
+# Measuring Sampling Robustness of Complex Networks
+Reference: (forthcoming)
 
 
 ### Generate samples
